@@ -1,0 +1,8 @@
+export const ActionTypes = {
+    
+  FETCH_ALL_DATA:"FETCH_ALL_DATA",
+  FETCH_ERROR:"FETCH_ERROR",
+  ADD_TO_CART:"ADD_TO_CART",
+  REMOVE_FROM_CART:"REMOVE_FROM_CART",
+
+  };
